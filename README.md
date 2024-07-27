@@ -14,7 +14,7 @@ This is mini blockchain written in Rust in programming language. You can use it 
 
 ## Installation and build
 
-Before installing the ChatBot CLI, ensure you have the following prerequisites:
+Before installing the Mini Blockchain, ensure you have the following prerequisites:
 
 1. **Rust**: Make sure you have Rust installed and version must be 1.79 or higher. You can install it via [rustup](https://www.rust-lang.org/tools/install).
 
