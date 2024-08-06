@@ -20,7 +20,7 @@ Before installing the Mini Blockchain, ensure you have the following prerequisit
 
 Now you're ready to install the  mini-blockchain. Clone this repository and build the application using Cargo:
 ```bash
-    git clone https://github.com/your_username/mini-blockchain.git
+    git clone https://github.com/RaVierma/mini-blockchain.git
     cd mini-blockchain
     cargo build --release
 ```
